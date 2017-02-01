@@ -1,0 +1,5 @@
+/Users/Damira/Projects/Practice3/Practice3/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Damira/Projects/Practice3/Practice3/bin/Debug/Practice3.exe.mdb
+/Users/Damira/Projects/Practice3/Practice3/bin/Debug/Practice3.exe
+/Users/Damira/Projects/Practice3/Practice3/obj/x86/Debug/Practice3.exe
+/Users/Damira/Projects/Practice3/Practice3/obj/x86/Debug/Practice3.exe.mdb

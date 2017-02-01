@@ -1,0 +1,5 @@
+/Users/Damira/Projects/matrices/matrices/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Damira/Projects/matrices/matrices/bin/Debug/matrices.exe.mdb
+/Users/Damira/Projects/matrices/matrices/bin/Debug/matrices.exe
+/Users/Damira/Projects/matrices/matrices/obj/x86/Debug/matrices.exe
+/Users/Damira/Projects/matrices/matrices/obj/x86/Debug/matrices.exe.mdb

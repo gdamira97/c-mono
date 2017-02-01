@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="questiongps/questiongps.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="questiongps/Trilateration.cs">
+    <Files>
+      <File FileName="questiongps/Trilateration.cs" Line="31" Column="29" />
+      <File FileName="questiongps/PosAndDistance.cs" Line="14" Column="15" />
+      <File FileName="questiongps/Beacon.cs" Line="50" Column="67" />
+      <File FileName="questiongps/Program.cs" Line="11" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.questiongps PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

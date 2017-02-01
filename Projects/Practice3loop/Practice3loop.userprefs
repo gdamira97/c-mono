@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Practice3loop/Practice3loop.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Practice3loop/Program.cs">
+    <Files>
+      <File FileName="Practice3loop/Program.cs" Line="58" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Practice3loop PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

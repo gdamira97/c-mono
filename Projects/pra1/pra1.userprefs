@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="pra1/pra1.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="pra1/Program.cs">
+    <Files>
+      <File FileName="pra1/Program.cs" Line="41" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.pra1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

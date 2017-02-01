@@ -1,0 +1,5 @@
+/Users/Damira/Projects/questiongps/questiongps/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Damira/Projects/questiongps/questiongps/bin/Debug/questiongps.exe.mdb
+/Users/Damira/Projects/questiongps/questiongps/bin/Debug/questiongps.exe
+/Users/Damira/Projects/questiongps/questiongps/obj/x86/Debug/questiongps.exe
+/Users/Damira/Projects/questiongps/questiongps/obj/x86/Debug/questiongps.exe.mdb

@@ -1,0 +1,5 @@
+/Users/Damira/Projects/Practice3loop/Practice3loop/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Damira/Projects/Practice3loop/Practice3loop/bin/Debug/Practice3loop.exe.mdb
+/Users/Damira/Projects/Practice3loop/Practice3loop/bin/Debug/Practice3loop.exe
+/Users/Damira/Projects/Practice3loop/Practice3loop/obj/x86/Debug/Practice3loop.exe
+/Users/Damira/Projects/Practice3loop/Practice3loop/obj/x86/Debug/Practice3loop.exe.mdb
